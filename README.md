@@ -1,8 +1,8 @@
 ### Hi there, I'm Jordi 👋
 ## I'm a Cross-Platform & Web Developer!!
 
-- 🌱 I’m currently focus to learning Flutter & Python 
-- 👯 I'm looking to new opportunity of work
+- 🎯 I’m currently focus to learning Flutter & Python 
+- 👔 I'm looking to new opportunity of work
 - 🥅 2021 Goals: Launch my first production mobile application with Flutter
 - ⚡ Fun fact: I love to draw and play videogames
 
@@ -15,7 +15,7 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="HTML5" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/1/17/Google-flutter-logo.png" />
+<img align="left" alt="HTML5" width="50px" src="https://www.kindpng.com/picc/m/355-3557482_flutter-logo-png-transparent-png.png" />
 
 <br />
 <br />
