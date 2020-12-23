@@ -6,13 +6,8 @@
 - 🥅 2021 Goals: Launch my first production mobile application with Flutter
 - ⚡ Fun fact: I love to draw and play videogames
 
-### Connect with me:
-
-[<img align="left" alt="codeSTACKr | LinkedIn" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-<br />
-
 ### Languages and Tools:
+<br />
 
 <img align="left" alt="HTML5" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/flutter.svg" />
 <img align="left" alt="HTML5" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/python.svg" />
@@ -24,6 +19,12 @@
 <img align="left" alt="HTML5" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/mongodb.svg" />
 
 <br />
+
+### Connect with me:
+<br />
+
+[<img align="left" alt="codeSTACKr | LinkedIn" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
 <br />
 
 
