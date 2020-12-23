@@ -8,14 +8,23 @@
 
 ### Connect with me:
 
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
 
 <br />
 
 ### Languages and Tools:
 
-<img align="left" alt="HTML5" width="50px" src="https://www.kindpng.com/picc/m/355-3557482_flutter-logo-png-transparent-png.png" />
+<img align="left" alt="HTML5" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/flutter.svg" />
+<img align="left" alt="HTML5" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/python.svg" />
+
+<img align="left" alt="HTML5" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/php.svg" />
+<img align="left" alt="HTML5" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/codeigniter.svg" />
+
+<img align="left" alt="HTML5" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/mysql.svg" />
+<img align="left" alt="HTML5" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/mongodb.svg" />
 
 <br />
 <br />
