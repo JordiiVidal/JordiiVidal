@@ -7,7 +7,6 @@
 - ⚡ Fun fact: I love to draw and play videogames
 
 ### Languages and Tools:
-<br />
 
 <img align="left" alt="HTML5" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/flutter.svg" />
 <img align="left" alt="HTML5" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/python.svg" />
@@ -17,8 +16,6 @@
 
 <img align="left" alt="HTML5" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/mysql.svg" />
 <img align="left" alt="HTML5" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/mongodb.svg" />
-
-<br />
 
 ### Connect with me:
 <br />
