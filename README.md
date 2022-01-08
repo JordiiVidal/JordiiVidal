@@ -1,15 +1,12 @@
 ### Hi there, I'm Jordi 👋
 ## I'm a Cross-Platform & Web Developer!!
 
-- 🎯 I’m currently focus to learning Flutter & Python 
-- 👔 I'm looking to new opportunity of work
-- 🥅 2021 Goals: Launch my first production mobile application with Flutter
-- ⚡ Fun fact: I love to draw and play videogames
+- 🎯 I’m currently focus to learning Flutter & Angular 
 
 ### Languages:
 
 <img align="left" alt="HTML5" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/flutter.svg" />
-<img align="left" alt="HTML5" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/python.svg" />
+<img align="left" alt="HTML5" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/angular.svg" />
 
 <img align="left" alt="HTML5" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/php.svg" />
 <img align="left" alt="HTML5" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/codeigniter.svg" />
