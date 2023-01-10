@@ -1,35 +1,20 @@
-### Hi there, I'm Jordi 👋
-## I'm a Cross-Platform & Web Developer!!
+<h1 align="center">Hi 👋, I'm Jordi Vidal</h1>
+<h3 align="center">A full-stack developer from Barcelona</h3>
+<br>
+<a href="https://github.com/anuraghazra/github-readme-stat">
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=JordiiVidal&theme=dracula&hide_border=true" />
+</a>
+<br>
 
-- 🎯 I’m currently focus to learning Flutter & Angular 
+ - 🎯 I’m currently focus to learning Dart & Flutter
+ - 👯 I'm looking for new job opportunities
+ - 🤝 I’m currently working with PHP & Java in my job
+ - 📫 How to reach me jordividal1997@gmail.com
+ 
+ <br>
+ 
+ ## Frontend
 
-### Languages:
 
-<img align="left" alt="HTML5" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/flutter.svg" />
-<img align="left" alt="HTML5" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/angular.svg" />
 
-<img align="left" alt="HTML5" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/php.svg" />
-<img align="left" alt="HTML5" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/codeigniter.svg" />
 
-<img align="left" alt="HTML5" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/mysql.svg" />
-<img align="left" alt="HTML5" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/mongodb.svg" />
-
-<img align="left" alt="HTML5" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/javascript.svg" />
-<img align="left" alt="HTML5" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/jquery.svg" />
-
-<img align="left" alt="HTML5" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/html5.svg" />
-<img align="left" alt="HTML5" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/css3.svg" />
-
-<br />
-<br />
-
-### Tools:
-
-<img align="left" alt="HTML5" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/visualstudiocode.svg" />
-<img align="left" alt="HTML5" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/intellijidea.svg" />
-<img align="left" alt="HTML5" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/androidstudio.svg" />
-<img align="left" alt="HTML5" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/git.svg" />
-<img align="left" alt="HTML5" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg" />
-<img align="left" alt="HTML5" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/postman.svg" />
-
-[linkedin]: https://www.linkedin.com/in/jordi-vidal-rosello/
