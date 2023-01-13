@@ -2,7 +2,7 @@
 <h3 align="center">A full-stack developer from Barcelona</h3>
 <br>
 <a href="https://github.com/JordiiVidal">
-  <img align="right" src="https://github-readme-stats-sigma-five.vercel.app/api?username=JordiiVidal&show_icons=true&theme=dark&bg_color=00000000" />
+  <img align="right" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=JordiiVidal&show_icons=true&theme=dark&bg_color=00000000&layout=compact&hide_border=true" />
 </a>
 <br>
 
