@@ -8,6 +8,6 @@
 
  - 🎯 I’m currently focus to learning Dart & Flutter
  - 👯 I'm looking for new job opportunities
- - 🤝 I’m currently working with PHP & Java in my job
+ - 🤝 I’m currently working with PHP & Java
  - 📫 How to reach me jordividal1997@gmail.com
  - ⚡ I like sports
