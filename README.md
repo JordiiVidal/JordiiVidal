@@ -35,3 +35,10 @@
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
+<p align="center">
+  <img align="center" src="https://streak-stats.demolab.com/?user=JordiiVidal&theme=blueberry_duo&hide_border=true&background=00000000" />
+</p>
+
+
+
+
