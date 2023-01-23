@@ -10,7 +10,7 @@
  - 👯 I'm looking for new job opportunities
  - 🤝 I’m currently working with PHP & Java
  - 📫 How to reach me jordividal1997@gmail.com
- - ⚡ I like sports
+ - ⚡ I like sports & videogames
  
  ## Languages
  ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
