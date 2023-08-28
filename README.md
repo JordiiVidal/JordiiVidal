@@ -8,7 +8,7 @@
 
  - 🎯 I’m currently focus to learning Angular & Node & Flutter
  - 👯 I'm looking for new job opportunities
- - 🤝 I’m currently working with PHP & Java
+ - 🤝 I’m currently working with Angular & PHP
  - 📫 How to reach me jordividal1997@gmail.com
  - ⚡ I like sports & videogames
  
