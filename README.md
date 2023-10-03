@@ -6,7 +6,7 @@
 </a>
 <br>
 
- - 🎯 I’m currently focus to learning Angular & Node & Flutter
+ - 🎯 I’m currently focus to learning Angular & Flutter
  - 👯 I'm looking for new job opportunities
  - 🤝 I’m currently working with Angular & PHP
  - 📫 How to reach me jordividal1997@gmail.com
