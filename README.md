@@ -35,3 +35,12 @@ Full Stack Developer from Barcelona.
 </p>
 
 ## Weekend
+
+<p align="left">
+  <img src="https://github.com/JordiiVidal/JordiiVidal/blob/master/assets/weekend/flutter.svg?raw=true" alt="flutter" width="50"/>
+  <img src="https://github.com/JordiiVidal/JordiiVidal/blob/master/assets/weekend/discord.svg?raw=true" alt="discord" width="50"/>
+  <img src="https://github.com/JordiiVidal/JordiiVidal/blob/master/assets/weekend/spotify.svg?raw=true" alt="spotify" width="50"/>
+  <img src="https://github.com/JordiiVidal/JordiiVidal/blob/master/assets/weekend/videogames.svg?raw=true" alt="videogames" width="50"/>
+  <img src="https://github.com/JordiiVidal/JordiiVidal/blob/master/assets/weekend/fcb.svg?raw=true" alt="fcb" width="50"/>
+  <img src="https://github.com/JordiiVidal/JordiiVidal/blob/master/assets/weekend/mountain.svg?raw=true" alt="mountain" width="50"/>
+</p>
